@@ -27,6 +27,37 @@
 
 
     </TableRow>
+     <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="password"
+            android:textSize="30dp"
+            android:textAlignment="center"
+
+            />
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="m"
+            />
+
+
+
+    </TableRow>
+     <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+      <Button
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="ok"
+           android:textSize="32dp"   
+
+
+    </TableRow>
 
 
 </TableLayout>
